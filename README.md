@@ -30,3 +30,4 @@ You may modify, customaze or use parts of this for your own needs.
 Updates:
 
 1. First upload, still not 100% finished!
+2. Apliacation closes itself if device doesn't have an Bluetooth adapter.
