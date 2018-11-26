@@ -1,6 +1,6 @@
-#AndroidDisplayContro
+#AndroidDisplayControl
 
-Author: Leopold Hauptman aka EonZombie
+Author: Leopold Hauptman (EonZombie)
 
 Allows you to controll 2 x 4 led display.
 
